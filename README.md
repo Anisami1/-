@@ -227,7 +227,7 @@
            var marcer  = new google.map.Marker({position: uluru,map: map});
        }
     </script>
-    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCW8k76qRnYrvMntHtWK6no9bRSonK3WmM&callback=initMap">
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=MAPS_API_KEY&callback=initMap">
     </script>
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d16048.020590818674!2d30.443960728061587!3d59.81587705750753!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x469625eeca9fc011%3A0x917105c61981c6e1!2z0KHQvtGE0LjQudGB0LrQsNGPINGD0LsuLCDQodCw0L3QutGCLdCf0LXRgtC10YDQsdGD0YDQsw!5e0!3m2!1sru!2sru!4v1622310108775!5m2!1sru!2sru" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
     <img src="img/%D0%A1%D0%BB%D0%BE%D0%B9%202.png" alt="">
